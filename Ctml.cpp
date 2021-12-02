@@ -3,6 +3,7 @@
 #include <fstream>
 using namespace std;
 
+// copy writed by Ghanbar Timar
 void clrscr()
 {
 	system("CLS");
